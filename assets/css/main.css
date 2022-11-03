@@ -2281,6 +2281,9 @@ input, select, textarea {
 		margin-left: -1em;
 		padding-left: 0;
 	}
+		ul.actions.left{
+			justify-content: right;
+		}
 
 		ul.actions li {
 			padding: 0 0 0 1em;
